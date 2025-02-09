@@ -18,7 +18,7 @@ body {
     margin-bottom: 30px;
   }  
   .jumbotron {
-    background-color: #f4511e;
+   background: linear-gradient(to top, #ff0000 0%, #ffffcc 100%);
     color: #fff;
     padding: 100px 25px;
     font-family: Montserrat, sans-serif;
